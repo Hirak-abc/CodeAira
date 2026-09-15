@@ -42,16 +42,6 @@ Points may be deducted for:
 
 This creates a scoring system that rewards both **coding performance and assessment integrity**.
 
-## 🛠️ Planned Tech Stack
-
-The project can be built using technologies such as:
-
-* **Frontend:** React.js / HTML / CSS / JavaScript
-* **Backend:** Flask / FastAPI
-* **Database:** MongoDB / PostgreSQL
-* **Code Execution:** Sandboxed code execution environment
-* **Authentication:** JWT / OAuth
-* **Deployment:** Cloud-based hosting
 
 ## 📌 Future Improvements
 
@@ -61,14 +51,9 @@ The project can be built using technologies such as:
 * Difficulty-based scoring
 * Coding streaks and achievements
 * Detailed performance analytics
-* Interview simulation mode
 * Custom assessment creation
 * Proctoring and suspicious-behavior detection
 
-## ⚠️ Disclaimer
-
-Browser-based restrictions such as disabling copy/paste or enforcing full-screen mode cannot provide absolute protection against cheating. CodeAira is designed to **discourage and detect common forms of cheating**, rather than guarantee a completely cheat-proof environment.
 
 ---
 
-**CodeAira — Write more. Solve better. Prove your skills.**
