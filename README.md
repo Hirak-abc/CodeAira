@@ -1,8 +1,8 @@
-# CodeArena — Competitive Coding Assessment Platform
+# CodeAira — Competitive Coding Assessment Platform
 
-**CodeArena** is a LeetCode-inspired coding assessment platform designed to evaluate a user's **problem-solving ability, coding consistency, and integrity** under controlled assessment conditions.
+**CodeAira** is a LeetCode-inspired coding assessment platform designed to evaluate a user's **problem-solving ability, coding consistency, and integrity** under controlled assessment conditions.
 
-Unlike traditional coding platforms, CodeArena introduces **anti-cheating and assessment restrictions** to simulate a real coding test or examination environment.
+Unlike traditional coding platforms, CodeAira introduces **anti-cheating and assessment restrictions** to simulate a real coding test or examination environment.
 
 ## 🚀 Key Features
 
@@ -19,7 +19,7 @@ Unlike traditional coding platforms, CodeArena introduces **anti-cheating and as
 
 ## 🎯 Objective
 
-The goal of CodeArena is to provide a **fair and controlled environment for coding assessments** where users cannot simply rely on external resources or copy-paste solutions.
+The goal of CodeAira is to provide a **fair and controlled environment for coding assessments** where users cannot simply rely on external resources or copy-paste solutions.
 
 The platform focuses not only on whether a user gets the correct answer, but also on **how they approach and complete coding problems under assessment conditions**.
 
@@ -67,8 +67,8 @@ The project can be built using technologies such as:
 
 ## ⚠️ Disclaimer
 
-Browser-based restrictions such as disabling copy/paste or enforcing full-screen mode cannot provide absolute protection against cheating. CodeArena is designed to **discourage and detect common forms of cheating**, rather than guarantee a completely cheat-proof environment.
+Browser-based restrictions such as disabling copy/paste or enforcing full-screen mode cannot provide absolute protection against cheating. CodeAira is designed to **discourage and detect common forms of cheating**, rather than guarantee a completely cheat-proof environment.
 
 ---
 
-**CodeArena — Write more. Solve better. Prove your skills.**
+**CodeAira — Write more. Solve better. Prove your skills.**
